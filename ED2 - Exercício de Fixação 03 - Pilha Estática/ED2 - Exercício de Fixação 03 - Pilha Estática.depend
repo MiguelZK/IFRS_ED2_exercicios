@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635466918 source:d:\ifrs - aulas cursos estudos\ed2 - estrutura de dados ii 2\ed2 - exercício de fixação 03 - pilha estática\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<locale.h>
+

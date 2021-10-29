@@ -1,3 +1,11 @@
+/*
+Elabore um algoritmo que registre "N" elementos em ordem crescente.
+
+Imprima o registro ordenado e a quantidade de elementos.
+
+Exclua o 2º elemento do registro, reordene e reimpirma o registro e a quantidade de elementos.
+*/
+
 #include <stdio.h>
 #include <malloc.h> //Importa biblioteca de alocação dinâmica de memória
 #include <stdlib.h>
